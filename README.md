@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yuchiaaa
 - 👀 I’m interested in AI, Data Engineering, and Data Science
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Data Engineering
-- 📫 How to reach me PM in Linkedin
+- 📫 How to reach me DM in Linkedin
 - 😄 Pronouns: He/Him
 
 <!---
