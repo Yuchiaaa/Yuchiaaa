@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Yuchiaaa
-- 👀 I’m interested in AI, Data Engineering, and Data Science
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Data Engineering
-- 📫 How to reach me DM in Linkedin
-- 😄 Pronouns: He/Him
+Im interested in Data Engineerin, Software Development, and AI.
 
 <!---
 Yuchiaaa/Yuchiaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
